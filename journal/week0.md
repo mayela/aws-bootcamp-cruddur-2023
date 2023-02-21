@@ -16,5 +16,5 @@ In order to prove that I'm able to use and configure I did the following:
 
 I attach evidence of the successful configuration of my credentials:
 
-![](_docs/assets/get-caller-identity.png)
+![](../_docs/assets/get-caller-identity.png)
 
